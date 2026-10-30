@@ -18,7 +18,22 @@ I like learning by building. Lately, I've been spending more time on backend dev
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgres,supabase,reactnative,expo,gsap,framer,git,github,npm,pnpm,vercel,netlify,docker,linux,postman,railway,numpy,pandas,vscode,figma,canva&perline=9" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgres,supabase,git,github,npm,pnpm,vercel,netlify,docker,linux,postman,vscode,figma&perline=9" />
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white" />
