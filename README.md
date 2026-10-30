@@ -13,39 +13,26 @@ I'm a BCA student who enjoys building web applications, working across the stack
 I like learning by building. Lately, I've been spending more time on backend development, databases, system design, and the tools that help applications run reliably.
 
 
+
 ## ⚡ Technology Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgres,supabase,reactnative,expo,gsap,framer,git,github,npm,pnpm,vercel,netlify,docker,linux,postman,railway,numpy,pandas,vscode,figma,canva&perline=9" />
+
+<p>
+  <img src="https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/EmailJS-FFB000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Piston-334155?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dokploy-111827?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dev--C%2B%2B-00599C?style=for-the-badge&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,axios,npm,pnpm" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,expo" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gsap,figma,canva" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vercel,netlify" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=railway,numpy,pandas,vscode" />
-</p>
 
 
 ## Current Missions
