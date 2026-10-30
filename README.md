@@ -69,22 +69,23 @@ I like learning by building. Lately, I've been spending more time on backend dev
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhumikasharma4152&layout=compact&hide_border=true&bg_color=090D16&title_color=60A5FA&text_color=CBD5E1" alt="Most used programming languages" />
 </p>
 
-## Establish Connection
+
+## 🤝 Establish Connection
 
 <p align="center">
   <a href="https://github.com/bhumikasharma4152">
-    <img src="https://img.shields.io/badge/GitHub-bhumikasharma4152-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-BHUMIKASHARMA4152-24292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Add your LinkedIn and portfolio links here when ready. -->
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bhumika-sharma4152/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:bhumikasharma4152@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
 </p>
 
 <p align="center">
-  <strong>Always open to interesting conversations, collaborations, and opportunities.</strong>
+  Always open to interesting conversations, collaborations, and opportunities.
 </p>
