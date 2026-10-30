@@ -1,0 +1,58 @@
+<div align="center">
+  <img src="assets/hero-banner.png" alt="Bhumika Sharma — Full Stack Developer | Always curious. Always building." width="100%" />
+</div>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</p>
+
+## About
+
+I'm a BCA student who enjoys building web applications, working across the stack, and figuring out how things fit together behind the scenes.
+
+I like learning by building. Lately, I've been spending more time on backend development, databases, system design, and the tools that help applications run reliably.
+
+## Technology Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,java,c,cpp&perline=7" alt="Frontend and programming technologies" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,git,github,linux,vscode&perline=8" alt="Databases and developer tools" />
+</p>
+
+## Current Missions
+
+- Exploring **system design** and how to build reliable, scalable applications.
+- Strengthening **backend engineering** and REST API design.
+- Practising with **Docker**, containers, and development workflows.
+- Improving problem-solving through **DSA**.
+- Building with **React**, **Node.js**, and **TypeScript**.
+
+## GitHub Performance
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhumikasharma4152&show_icons=true&hide_border=true&bg_color=090D16&title_color=60A5FA&text_color=CBD5E1&icon_color=38BDF8&rank_icon=github" alt="Bhumika's GitHub statistics" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=bhumikasharma4152&hide_border=true&background=090D16&ring=3B82F6&fire=22D3EE&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikasharma4152&layout=compact&hide_border=true&bg_color=090D16&title_color=60A5FA&text_color=CBD5E1" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</p>
+
+## Establish Connection
+
+<p align="center">
+  <a href="https://github.com/bhumikasharma4152">
+    <img src="https://img.shields.io/badge/GitHub-bhumikasharma4152-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Add your LinkedIn and portfolio links here when ready. -->
+</p>
+
+<p align="center">
+  <strong>Always curious. Always building.</strong>
+</p>
