@@ -12,14 +12,41 @@ I'm a BCA student who enjoys building web applications, working across the stack
 
 I like learning by building. Lately, I've been spending more time on backend development, databases, system design, and the tools that help applications run reliably.
 
-## Technology Arsenal
+
+## ⚡ Technology Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,java,c,cpp&perline=7" alt="Frontend and programming technologies" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,git,github,linux,vscode&perline=8" alt="Databases and developer tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,axios,npm,pnpm" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,expo" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gsap,figma,canva" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vercel,netlify" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=railway,numpy,pandas,vscode" />
+</p>
+
 
 ## Current Missions
 
