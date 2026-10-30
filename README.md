@@ -32,16 +32,12 @@ I like learning by building. Lately, I've been spending more time on backend dev
 ## GitHub Performance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhumikasharma4152&show_icons=true&hide_border=true&bg_color=090D16&title_color=60A5FA&text_color=CBD5E1&icon_color=38BDF8&rank_icon=github" alt="Bhumika's GitHub statistics" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=bhumikasharma4152&hide_border=true&background=090D16&ring=3B82F6&fire=22D3EE&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=bhumikasharma4152&show_icons=true&hide_border=true&bg_color=090D16&title_color=60A5FA&text_color=CBD5E1&icon_color=38BDF8&rank_icon=github" alt="Bhumika's GitHub statistics" />
+  <img height="165" src="https://streak-stats.demolab.com?user=bhumikasharma4152&hide_border=true&background=090D16&ring=3B82F6&fire=22D3EE&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikasharma4152&layout=compact&hide_border=true&bg_color=090D16&title_color=60A5FA&text_color=CBD5E1" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhumikasharma4152&layout=compact&hide_border=true&bg_color=090D16&title_color=60A5FA&text_color=CBD5E1" alt="Most used programming languages" />
 </p>
 
 ## Establish Connection
