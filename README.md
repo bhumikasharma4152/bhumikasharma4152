@@ -76,8 +76,15 @@ I like learning by building. Lately, I've been spending more time on backend dev
     <img src="https://img.shields.io/badge/GitHub-bhumikasharma4152-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <!-- Add your LinkedIn and portfolio links here when ready. -->
+  <a href="https://www.linkedin.com/in/bhumika-sharma4152/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bhumikasharma4152@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 </p>
 
 <p align="center">
-  <strong>Always curious. Always building.</strong>
+  <strong>Always open to interesting conversations, collaborations, and opportunities.</strong>
 </p>
